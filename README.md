@@ -1,7 +1,7 @@
 # my-portfolio-page
 My Personal Professional Portfolio Page
 
-Technologies used:
+### Technologies used:
 
 <img src='https://img.shields.io/badge/-React-blue' alt='react-bacge'/>  <img src='https://img.shields.io/badge/-React--Router-red' alt='react-router badge'/> <img src='https://img.shields.io/badge/-JavaScript-yellow' alt='javascript-badge'/> <img src='https://img.shields.io/badge/-HTML-orange' alt='html-badge'/> <img src='https://img.shields.io/badge/-Tailwind%20CSS-blue' alt='tailwind-css-badge'/>
 
